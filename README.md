@@ -1,2 +1,2 @@
 # face
-Python program that scans a webcam for a face and highlights it in red.
+Python program that scans a webcam and highlights a face in blue and a body in green
